@@ -1,1 +1,1 @@
-The 0-current_working_directory will show contain the command that shows us our current location
+The 1-listit will list the contents of the current directory
